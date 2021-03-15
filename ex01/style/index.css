@@ -1,0 +1,46 @@
+h1{
+    color: red;
+    text-align: center;
+}
+
+.container-1{
+    display: flex;
+}
+.container-2{
+    display: flex;
+}
+.container-3{
+    display: flex;
+}
+
+p{
+    color: black;
+    font-size: 8;
+    width: 100;
+    line-height: 15px;
+    padding: 15px;
+    text-align: center;
+}
+
+body{
+    max-width: 500px;
+    margin: 15px;
+    
+   
+}
+.pic{
+    height: 100;
+    width: 400px;
+    margin: 5px;
+    float: left;
+}
+h4{
+    color:aqua ;
+    
+}
+.box-G{
+    flex: 2;
+}
+
+    
+
